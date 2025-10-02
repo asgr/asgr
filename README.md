@@ -3,9 +3,9 @@
 <!--Intro start-->
 - 🏠 Professor at the International Center for Radio Astronomy Research (ICRAR) at the University of Western Australia (UWA) (https://research-repository.uwa.edu.au/en/persons/aaron-robotham).
 
-- 📖 Ph.D. from University of Bristol (UK)
+- 📖 PhD from University of Bristol (UK).
 
-- 🔭 I’m currently working on all things to do with large astronomy surveys, in particular GAMA (Project Scientist) /WAVES (Project Scientist)
+- 🔭 I’m currently working on all things to do with large astronomy surveys, in particular GAMA (Project Scientist) /WAVES (Project Scientist for WAVES-Wide).
 
 - 📝 Publications: [https://ui.adsabs.harvard.edu/user/libraries/aiv7eTyxRsCqB7jtDJw1YQ](https://ui.adsabs.harvard.edu/user/libraries/aiv7eTyxRsCqB7jtDJw1YQ)]
 
