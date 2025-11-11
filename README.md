@@ -5,7 +5,7 @@
 
 - 📖 PhD from University of Bristol (UK).
 
-- 🔭 I’m currently working on all things to do with large astronomy surveys, in particular GAMA (Project Scientist) /WAVES (Project Scientist for WAVES-Wide).
+- 🔭 I’m currently working on all things to do with large astronomy surveys, in particular GAMA (Project Scientist) and WAVES (Project Scientist for WAVES-Wide).
 
 - 📝 Publications: [https://ui.adsabs.harvard.edu/user/libraries/aiv7eTyxRsCqB7jtDJw1YQ](https://ui.adsabs.harvard.edu/user/libraries/aiv7eTyxRsCqB7jtDJw1YQ)]
 
