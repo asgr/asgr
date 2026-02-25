@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me out **aaron.robotham@uwa.edu.au**
 
-- The **[ProTools](https://github.com/asgr/ProTools)** suite:
+- My recent focus on GitHub has been my astronomy-centric **[ProTools](https://github.com/asgr/ProTools)** suite:
 
 | Package | Status | Description |
 |---------|--------|-------------|
