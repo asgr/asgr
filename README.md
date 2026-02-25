@@ -36,7 +36,7 @@ Other significant packages:
 
 | Package | Status | Description |
 |---------|--------|-------------|
-| [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/imager/actions) | Image processing based on Cimg |
+| [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/asgr/imager/actions/workflows/R-CMD-check.yaml) | Image processing based on Cimg |
 | [whatsup](https://github.com/asgr/whatsup) | [![R-CMD-check](https://github.com/asgr/whatsup/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/whatsup/actions) | Astronomy observability package (see [whatsup](https://whatsup.icrar.org)) |
 
 <!--Intro end-->
