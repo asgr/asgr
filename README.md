@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me out **aaron.robotham@uwa.edu.au**
 
-- The **ProTools** suite:
+- The **[ProTools](https://github.com/asgr/ProTools)** suite:
 
 | Package | Status | Description |
 |---------|--------|-------------|
