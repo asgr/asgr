@@ -30,7 +30,7 @@
 | [ProUtils](https://github.com/asgr/ProUtils) | [![R-CMD-check](https://github.com/asgr/ProUtils/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProUtils/actions) | Shared low-level utilities for ProTools |
 | [Rfits](https://github.com/asgr/Rfits) | [![R-CMD-check](https://github.com/asgr/Rfits/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rfits/actions) | FITS file I/O for images, tables, and headers |
 | [Rwcs](https://github.com/asgr/Rwcs) | [![R-CMD-check](https://github.com/asgr/Rwcs/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rwcs/actions) | World Coordinate System projections and conversions |
-| [sphereplot](https://github.com/asgr/sphereplot) | | Spherical coordinate plotting |
+| [sphereplot](https://github.com/asgr/sphereplot) | [![R-CMD-check](https://github.com/asgr/sphereplot/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/sphereplot/actions) | Spherical coordinate plotting |
 
 <!--Intro end-->
 
