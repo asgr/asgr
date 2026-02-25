@@ -32,6 +32,13 @@
 | [Rwcs](https://github.com/asgr/Rwcs) | [![R-CMD-check](https://github.com/asgr/Rwcs/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rwcs/actions) | World Coordinate System projections and conversions |
 | [sphereplot](https://github.com/asgr/sphereplot) | [![R-CMD-check](https://github.com/asgr/sphereplot/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/sphereplot/actions) | Spherical coordinate plotting |
 
+Other significant packages:
+
+| Package | Status | Description |
+|---------|--------|-------------|
+| [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/imager/actions) | Image processing based on Cimg |
+| [whatsup](https://github.com/asgr/whatsup) | [![R-CMD-check](https://github.com/asgr/whatsup/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/whatsup/actions) | Astronomy observability package (see [whatsup](https://whatsup.icrar.org)) |
+
 <!--Intro end-->
 
 <!--h1 without bottom border-->
