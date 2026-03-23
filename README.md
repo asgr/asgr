@@ -32,12 +32,33 @@
 | [Rwcs](https://github.com/asgr/Rwcs) | [![R-CMD-check](https://github.com/asgr/Rwcs/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rwcs/actions) | World Coordinate System projections and conversions |
 | [sphereplot](https://github.com/asgr/sphereplot) | [![R-CMD-check](https://github.com/asgr/sphereplot/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/sphereplot/actions) | Spherical coordinate plotting |
 
-Other significant packages:
+Other significant packages I officially maintain:
 
 | Package | Status | Description |
 |---------|--------|-------------|
 | [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/asgr/imager/actions) | Image processing based on Cimg |
 | [whatsup](https://github.com/asgr/whatsup) | [![R-CMD-check](https://github.com/asgr/whatsup/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/whatsup/actions) | Astronomy observability package (see [whatsup](https://whatsup.icrar.org)) |
+
+Other useful (ish) packages I have written:
+
+| Package | Description |
+|---------|-------------|
+| [Viperfish](https://github.com/asgr/Viperfish) | Interface between SAMs and ProSpect |
+| [MAML](https://github.com/asgr/MAML) | R interface to MAML metadata format |
+| [VOTableR ](https://github.com/asgr/VOTableR ) | R implementation of VOTable format |
+| [tggd](https://github.com/asgr/tggd) | Truncated generalised gamma distribution |
+| [MRP](https://github.com/asgr/MRP) | HMF tools using the tggd |
+| [NFWdist](https://github.com/asgr/NFWdist) | NFW distribution function tools |
+| [snapshot](https://github.com/asgr/snapshot) | Read and write GADGET version 1 and 2 files |
+
+Other significant packages I have forked (and updated etc):
+
+| Package | Description |
+|---------|-------------|
+| [astrolibR](https://github.com/asgr/astrolibR) | R implementation of IDL astronomy routines |
+| [moonsun](https://github.com/asgr/moonsun) | Various astronomy observability routines |
+| [LaplacesDemon](https://github.com/asgr/LaplacesDemon) | MCMC Tools and Optimisers |
+| [cmaeshpc](https://github.com/asgr/cmaeshpc) | Genetic algorithm optimiser |
 
 <!--Intro end-->
 
