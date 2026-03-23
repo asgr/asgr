@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me out **aaron.robotham@uwa.edu.au**
 
-- My recent focus on GitHub has been my astronomy-centric **[ProTools](https://github.com/asgr/ProTools)** suite:
+- My recent focus on GitHub has been my astronomy-centric **R** based **[ProTools](https://github.com/asgr/ProTools)** suite:
 
 | Package | Status | Description |
 |---------|--------|-------------|
@@ -32,34 +32,40 @@
 | [Rwcs](https://github.com/asgr/Rwcs) | [![R-CMD-check](https://github.com/asgr/Rwcs/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rwcs/actions) | World Coordinate System projections and conversions |
 | [sphereplot](https://github.com/asgr/sphereplot) | [![R-CMD-check](https://github.com/asgr/sphereplot/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/sphereplot/actions) | Spherical coordinate plotting |
 
-Other significant packages I officially maintain:
+Other significant **R** packages I officially maintain:
 
 | Package | Status | Description |
 |---------|--------|-------------|
 | [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/asgr/imager/actions) | Image processing based on Cimg |
 | [whatsup](https://github.com/asgr/whatsup) | [![R-CMD-check](https://github.com/asgr/whatsup/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/whatsup/actions) | Astronomy observability package (see [whatsup](https://whatsup.icrar.org)) |
 
-Other useful (ish) packages I have written:
+Other useful (ish) **R** packages I have written:
 
 | Package | Description |
 |---------|-------------|
 | [Viperfish](https://github.com/asgr/Viperfish) | Interface between SAMs and ProSpect |
-| [MAML](https://github.com/asgr/MAML) | R interface to MAML metadata format |
-| [VOTableR ](https://github.com/asgr/VOTableR ) | R implementation of VOTable format |
+| [MAML](https://github.com/asgr/MAML) | Interface to MAML metadata format |
+| [VOTableR ](https://github.com/asgr/VOTableR ) | Implementation of VOTable format |
 | [tggd](https://github.com/asgr/tggd) | Truncated generalised gamma distribution |
 | [MRP](https://github.com/asgr/MRP) | HMF tools using the tggd |
 | [NFWdist](https://github.com/asgr/NFWdist) | NFW distribution function tools |
 | [snapshot](https://github.com/asgr/snapshot) | Read and write GADGET version 1 and 2 files |
-| [ADS](https://github.com/asgr/ADS) | R interface to NASA ADS |
+| [ADS](https://github.com/asgr/ADS) | Interface to NASA ADS |
 
-Other significant packages I have forked (and updated etc):
+Other significant **R** packages I have forked (and updated etc):
 
 | Package | Description |
 |---------|-------------|
-| [astrolibR](https://github.com/asgr/astrolibR) | R implementation of IDL astronomy routines |
+| [astrolibR](https://github.com/asgr/astrolibR) | Implementation of IDL astronomy routines |
 | [moonsun](https://github.com/asgr/moonsun) | Various astronomy observability routines |
 | [LaplacesDemon](https://github.com/asgr/LaplacesDemon) | MCMC Tools and Optimisers |
 | [cmaeshpc](https://github.com/asgr/cmaeshpc) | Genetic algorithm optimiser |
+
+Non **R** things:
+
+| Package | Description |
+|---------|-------------|
+| [MAML-format](https://github.com/asgr/MAML-format) | Informal and formal (JSON) **MAML** format specification |
 
 <!--Intro end-->
 
