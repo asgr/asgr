@@ -50,6 +50,7 @@ Other useful (ish) packages I have written:
 | [MRP](https://github.com/asgr/MRP) | HMF tools using the tggd |
 | [NFWdist](https://github.com/asgr/NFWdist) | NFW distribution function tools |
 | [snapshot](https://github.com/asgr/snapshot) | Read and write GADGET version 1 and 2 files |
+| [ADS](https://github.com/asgr/ADS) | R interface to NASA ADS |
 
 Other significant packages I have forked (and updated etc):
 
