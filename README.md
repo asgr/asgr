@@ -11,7 +11,9 @@
 
 - 📫 Feel free to reach me out **aaron.robotham@uwa.edu.au**
 
-- My recent focus on GitHub has been my astronomy-centric **R** based **[ProTools](https://github.com/asgr/ProTools)** suite:
+- My recent focus on GitHub has been my astronomy-centric **R** based **[ProTools](https://github.com/asgr/ProTools)** suite.
+
+- The main list of **ProTools** packages is below, but if you want to look through some longer form example (AKA Vignettes) check out [https://rpubs.com/asgr](https://rpubs.com/asgr).
 
 | Package | Status | Description |
 |---------|--------|-------------|
