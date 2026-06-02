@@ -15,31 +15,31 @@
 
 - The main list of **ProTools** packages is below, but if you want to look through some longer form example (AKA Vignettes) check out [https://rpubs.com/asgr](https://rpubs.com/asgr).
 
-| Package | Status | Description |
-|---------|--------|-------------|
-| [celestial](https://github.com/asgr/celestial) | [![R-CMD-check](https://github.com/asgr/celestial/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/celestial/actions) | Core astronomy routines (coordinates, cosmology, etc) |
-| [Highlander](https://github.com/asgr/Highlander) | [![R-CMD-check](https://github.com/asgr/Highlander/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Highlander/actions) | Bayesian optimisation combining CMA-ES and MCMC |
-| [hyper.fit](https://github.com/asgr/hyper.fit) | [![R-CMD-check](https://github.com/asgr/hyper.fit/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/hyper.fit/actions) | N-dimensional hyperplane fitting with errors |
-| [magicaxis](https://github.com/asgr/magicaxis) | [![R-CMD-check](https://github.com/asgr/magicaxis/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/magicaxis/actions) | Pretty scientific plotting and axis formatting |
-| [ParmOff](https://github.com/asgr/ParmOff) | [![R-CMD-check](https://github.com/asgr/ParmOff/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ParmOff/actions) | Flexible function argument matching |
-| [ProFit](https://github.com/ICRAR/ProFit) | [![R-CMD-check](https://github.com/ICRAR/ProFit/workflows/R-CMD-check/badge.svg)](https://github.com/ICRAR/ProFit/actions) | Bayesian galaxy image profile fitting |
-| [ProFound](https://github.com/asgr/ProFound) | [![R-CMD-check](https://github.com/asgr/ProFound/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProFound/actions) | Source extraction and photometry |
-| [ProFuse](https://github.com/asgr/ProFuse) | [![R-CMD-check](https://github.com/asgr/ProFuse/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProFuse/actions) | Multi-band galaxy fitting (ProFound + ProFit + ProSpect) |
-| [ProGeny](https://github.com/asgr/ProGeny) | [![R-CMD-check](https://github.com/asgr/ProGeny/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProGeny/actions) | Simple Stellar Population library generation |
-| [ProPane](https://github.com/asgr/ProPane) | [![R-CMD-check](https://github.com/asgr/ProPane/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProPane/actions) | Image warping, stacking, and registration |
-| [ProSpect](https://github.com/asgr/ProSpect) | [![R-CMD-check](https://github.com/asgr/ProSpect/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProSpect/actions) | Spectral energy distribution generation and fitting |
-| [ProSpectData](https://github.com/asgr/ProSpectData) | [![R-CMD-check](https://github.com/asgr/ProSpectData/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProSpectData/actions) | Required data (e.g. SSPs) for ProSpect |
-| [ProUtils](https://github.com/asgr/ProUtils) | [![R-CMD-check](https://github.com/asgr/ProUtils/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProUtils/actions) | Shared low-level utilities for ProTools |
-| [Rfits](https://github.com/asgr/Rfits) | [![R-CMD-check](https://github.com/asgr/Rfits/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rfits/actions) | FITS file I/O for images, tables, and headers |
-| [Rwcs](https://github.com/asgr/Rwcs) | [![R-CMD-check](https://github.com/asgr/Rwcs/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rwcs/actions) | World Coordinate System projections and conversions |
-| [sphereplot](https://github.com/asgr/sphereplot) | [![R-CMD-check](https://github.com/asgr/sphereplot/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/sphereplot/actions) | Spherical coordinate plotting |
+| Package | Status | Stars | Description |
+|---------|--------|-------|-------------|
+| [celestial](https://github.com/asgr/celestial) | [![R-CMD-check](https://github.com/asgr/celestial/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/celestial/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/celestial)](https://github.com/asgr/celestial/stargazers) | Core astronomy routines (coordinates, cosmology, etc) |
+| [Highlander](https://github.com/asgr/Highlander) | [![R-CMD-check](https://github.com/asgr/Highlander/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Highlander/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/Highlander)](https://github.com/asgr/Highlander/stargazers) | Bayesian optimisation combining CMA-ES and MCMC |
+| [hyper.fit](https://github.com/asgr/hyper.fit) | [![R-CMD-check](https://github.com/asgr/hyper.fit/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/hyper.fit/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/hyper.fit)](https://github.com/asgr/hyper.fit/stargazers) | N-dimensional hyperplane fitting with errors |
+| [magicaxis](https://github.com/asgr/magicaxis) | [![R-CMD-check](https://github.com/asgr/magicaxis/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/magicaxis/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/magicaxis)](https://github.com/asgr/magicaxis/stargazers) | Pretty scientific plotting and axis formatting |
+| [ParmOff](https://github.com/asgr/ParmOff) | [![R-CMD-check](https://github.com/asgr/ParmOff/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ParmOff/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ParmOff)](https://github.com/asgr/ParmOff/stargazers) | Flexible function argument matching |
+| [ProFit](https://github.com/ICRAR/ProFit) | [![R-CMD-check](https://github.com/ICRAR/ProFit/workflows/R-CMD-check/badge.svg)](https://github.com/ICRAR/ProFit/actions) | [![GitHub stars](https://img.shields.io/github/stars/ICRAR/ProFit)](https://github.com/ICRAR/ProFit/stargazers) | Bayesian galaxy image profile fitting |
+| [ProFound](https://github.com/asgr/ProFound) | [![R-CMD-check](https://github.com/asgr/ProFound/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProFound/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProFound)](https://github.com/asgr/ProFound/stargazers) | Source extraction and photometry |
+| [ProFuse](https://github.com/asgr/ProFuse) | [![R-CMD-check](https://github.com/asgr/ProFuse/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProFuse/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProFuse)](https://github.com/asgr/ProFuse/stargazers) | Multi-band galaxy fitting (ProFound + ProFit + ProSpect) |
+| [ProGeny](https://github.com/asgr/ProGeny) | [![R-CMD-check](https://github.com/asgr/ProGeny/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProGeny/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProGeny)](https://github.com/asgr/ProGeny/stargazers) | Simple Stellar Population library generation |
+| [ProPane](https://github.com/asgr/ProPane) | [![R-CMD-check](https://github.com/asgr/ProPane/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProPane/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProPane)](https://github.com/asgr/ProPane/stargazers) | Image warping, stacking, and registration |
+| [ProSpect](https://github.com/asgr/ProSpect) | [![R-CMD-check](https://github.com/asgr/ProSpect/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProSpect/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProSpect)](https://github.com/asgr/ProSpect/stargazers) | Spectral energy distribution generation and fitting |
+| [ProSpectData](https://github.com/asgr/ProSpectData) | [![R-CMD-check](https://github.com/asgr/ProSpectData/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProSpectData/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProSpectData)](https://github.com/asgr/ProSpectData/stargazers) | Required data (e.g. SSPs) for ProSpect |
+| [ProUtils](https://github.com/asgr/ProUtils) | [![R-CMD-check](https://github.com/asgr/ProUtils/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/ProUtils/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/ProUtils)](https://github.com/asgr/ProUtils/stargazers) | Shared low-level utilities for ProTools |
+| [Rfits](https://github.com/asgr/Rfits) | [![R-CMD-check](https://github.com/asgr/Rfits/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rfits/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/Rfits)](https://github.com/asgr/Rfits/stargazers) | FITS file I/O for images, tables, and headers |
+| [Rwcs](https://github.com/asgr/Rwcs) | [![R-CMD-check](https://github.com/asgr/Rwcs/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/Rwcs/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/Rwcs)](https://github.com/asgr/Rwcs/stargazers) | World Coordinate System projections and conversions |
+| [sphereplot](https://github.com/asgr/sphereplot) | [![R-CMD-check](https://github.com/asgr/sphereplot/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/sphereplot/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/sphereplot)](https://github.com/asgr/sphereplot/stargazers) | Spherical coordinate plotting |
 
 Other significant **R** packages I officially maintain:
 
-| Package | Status | Description |
-|---------|--------|-------------|
-| [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/asgr/imager/actions) | Image processing based on Cimg |
-| [whatsup](https://github.com/asgr/whatsup) | [![R-CMD-check](https://github.com/asgr/whatsup/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/whatsup/actions) | Astronomy observability package (see [whatsup](https://whatsup.icrar.org)) |
+| Package | Status | Stars | Description |
+|---------|--------|-------|-------------|
+| [imager](https://github.com/asgr/imager) | [![R-CMD-check](https://github.com/asgr/imager/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/asgr/imager/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/imager)](https://github.com/asgr/imager/stargazers) | Image processing based on Cimg |
+| [whatsup](https://github.com/asgr/whatsup) | [![R-CMD-check](https://github.com/asgr/whatsup/workflows/R-CMD-check/badge.svg)](https://github.com/asgr/whatsup/actions) | [![GitHub stars](https://img.shields.io/github/stars/asgr/whatsup)](https://github.com/asgr/whatsup/stargazers) | Astronomy observability package (see [whatsup](https://whatsup.icrar.org)) |
 
 Other useful (ish) **R** packages I have written:
 
